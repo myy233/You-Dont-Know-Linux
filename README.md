@@ -1,2 +1,2 @@
 # You-Don-t-Know-Linux
-An intro to linux operating system and commands
+An Intro to Linux operating system, navigation/commands, and a bunch more
