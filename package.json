@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myy233/You-Don-t-Know-Linux.git"
+    "url": "https://github.com/myy233/You-Dont-Know-Linux.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/myy233/You-Don-t-Know-Linux/issues"
+    "url": "https://github.com/myy233/You-Dont-Know-Linux.git"
   },
   "homepage": "https://github.com/myy233/You-Don-t-Know-Linux#readme",
   "dependencies": {
