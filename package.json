@@ -1,0 +1,22 @@
+{
+  "name": "you-dont-know-linux",
+  "version": "1.0.0",
+  "description": "This is a book that introduces you to the Linux operating system, navigation/commands, and a bunch more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myy233/You-Don-t-Know-Linux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myy233/You-Don-t-Know-Linux/issues"
+  },
+  "homepage": "https://github.com/myy233/You-Don-t-Know-Linux#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
